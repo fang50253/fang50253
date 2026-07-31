@@ -36,7 +36,7 @@ func AboutMe() map[string]string {
 
 | 项目 | 简介 | 技术 |
 | :--- | :--- | :--- |
-| [**移动在线商城**]([https://github.com/fang50253/Internship_final_assignment]) | 完整购物流程，含支付与订单管理 | Node.js + Vue + MySQL |
+| [**移动在线商城**](https://github.com/fang50253/Internship_final_assignment) | 完整购物流程，含支付与订单管理 | Node.js + Vue + MySQL |
 | [**智能资料共享系统**](https://github.com/fang50253/Software_Engineering) | RAG 检索 + LLM 摘要 + 推理 Agent | Python + LLM + RAG |
 
 > 更多项目正在路上，欢迎常来看看 👀
